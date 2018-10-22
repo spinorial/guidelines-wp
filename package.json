@@ -1,0 +1,28 @@
+{
+  "name": "guidelines-wp",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/roots/bedrock.svg)](https://travis-ci.org/roots/bedrock)",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap4": "^0.0.1-security",
+    "jquery": "^3.3.1",
+    "react-datepicker": "^1.6.0",
+    "react-form": "^3.5.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "npm": "^6.1.0",
+    "webpack": "^4.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
